@@ -1,1 +1,1 @@
-# Gen-AI_Fun-Facts
+# GenAI_FunFacts
